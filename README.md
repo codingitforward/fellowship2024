@@ -1,2 +1,2 @@
-# fellowship2024
-Final presentations for 2024 Fellowship.
+### Introduction
+The [Coding it Forward Fellowship](https://www.codingitforward.com/fellowship) is empowering the next generation of technology leaders to innovate at the intersections of technology and public service in all levels of government offices across the United States. Fellows work across software engineering, data, design, and product to deliver service, improve systems, and strengthen products on behalf of the American people. 
