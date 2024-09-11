@@ -96,7 +96,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Jessica Lin** is a recent graduate from the University of Pennsylvania with a M.S. degree in Integrated Product Design. This summer, she was a Design Fellow at US Citizenship and Immigration Services (USCIS), where she worked on creating time efficiencies and improving visibility and tracking for support staff servicing cases and sending service documents to downstream DHS partners.
 
-**Jude Ha** is a rising junior at Harvard University studying Computer Science. This summer, she worked at the Associate Directorate for Demographic Programs to automate data file creation for the Census Household Panel survey, a high frequency national panel. | [Presentation](Jude Ha_Chang.pdf)
+**Jude Ha** is a rising junior at Harvard University studying Computer Science. This summer, she worked at the Associate Directorate for Demographic Programs to automate data file creation for the Census Household Panel survey, a high frequency national panel.
 
 **Karen Lin** is a recent graduate from Yale University with a B.S. degree in Computer Science and History of Art. This summer, she worked at the General Services Administration, Technology Transformation Services on the Digital.gov team as a front-end engineer. During her fellowship, Karen restructured search results on Digital.gov to return up-to-date content and ideated, developed, and shipped the Communities of Practice (CoP) Job Board. Her job board aims to decrease email spam from CoP emailings lists by 25%, increase retention rates in each CoP, and increase usage of the Digital.gov website. | [Presentation](Karen_Lin.pdf)
 
