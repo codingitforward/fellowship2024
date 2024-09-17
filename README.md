@@ -185,7 +185,7 @@ Lauren Chu is a rising junior at the University of California, Berkeley, studyin
 
 **Winston Li** is a rising junior at UCLA studying Statistics and Data Science and Political Science. This summer, he worked at the U.S. Census Bureau's Economic Statistical Methods Division, developing a private large language model pipeline to effectively analyze Census documents, surveys, and reports. His work resulted in significant improvements in model accuracy and relevance over existing solutions, while also allowing for the offline, secure analysis of confidential data. | [Presentation](Winston_Li.pdf)
 
-**Zyail Pritchett** is a recent graduate from Michigan State University, where she majored in Human Biology. This summer, she worked at the Bureau of Justice Statistics (BJS) as a Data Analytics Intern, where she focused on analyzing and visualizing grant data to support state justice programs with over 4 million dollars in funding. Her work contributed to enhancing the efficiency of grant management and providing valuable insights into funding allocation across various states.
+**Zyail Pritchett** is a recent graduate from Michigan State University, where she majored in Human Biology. This summer, she worked at the Bureau of Justice Statistics (BJS) as a Data Analytics Intern in the Criminal Justice Data Improvement Programs Unit, where she focused on analyzing and visualizing grant data to support state justice programs with over 4 million dollars in funding. Her work contributed to enhancing the efficiency of grant management and providing valuable insights into funding allocations across various states.
 
 ---
 ### Contact
